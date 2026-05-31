@@ -11,7 +11,7 @@ const trendingPackages = [
     duration: '9 Nights / 10 Days',
     highlights: ['Yamunotri', 'Gangotri', 'Kedarnath', 'Badrinath'],
     includes: ['Cab Transfers', 'Hotel Stay', 'Meals', 'Darshan & Guidance'],
-    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20May%2031%2C%202026%2C%2002_31_22%20PM-MYfh6A6YVUZBdgyb9emOLc6Oeh4UoL.png',
+    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-30%20at%209.18.22%20PM-XtMGyLvuw4r3z442iXE3CwjaW4prw3.jpeg',
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const trendingPackages = [
     duration: '4 Nights / 5 Days',
     highlights: ['Srinagar', 'Baltal', 'Amarnath Cave', 'Helicopter Option Available'],
     includes: ['Cab Transfers', 'Hotel Stay', 'Meals', 'Yatra Assistance'],
-    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-28%20at%202.23.03%20PM%20%281%29-CLgwmrs12ZwB4dCzwSiwJJkP7NUKWu.jpeg',
+    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-30%20at%209.51.52%20PM-HLAJ2iQnNknCkWPev6jE16Vv8vXVve.jpeg',
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const trendingPackages = [
     duration: '2 Nights / 3 Days',
     highlights: ['Katra'],
     includes: ['Cab Transfers', 'Hotel Stay', 'Meals', 'Yatra Assistance', 'Sightseeing'],
-    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20May%2031%2C%202026%2C%2002_32_35%20PM-Hg1JkXoECtGjZd4wWjoNJgArASHLXk.png',
+    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-30%20at%209.53.11%20PM-MsA5vWowA9foKOxpbHC0ggkbx0FB94.jpeg',
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const trendingPackages = [
     duration: '2 Nights / 3 Days',
     highlights: ['Spiritual sightseeing', 'Comfortable stay', 'Guided assistance'],
     includes: ['Cab Transfers', 'Hotel Stay', 'Meals'],
-    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20May%2031%2C%202026%2C%2002_34_00%20PM-itCtwKpsRri8aw4IvnbBoUdn85v6XU.png',
+    image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-30%20at%209.53.47%20PM-XSdDcUtI2KKNWKaSbdc8XW7fjIYuk0.jpeg',
   },
 ];
 
