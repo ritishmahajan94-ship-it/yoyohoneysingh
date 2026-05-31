@@ -6,8 +6,8 @@ const vehicles = [
   { id: 4, name: '20+ Seater | Force', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-28%20at%202.23.03%20PM%20%281%29-CLgwmrs12ZwB4dCzwSiwJJkP7NUKWu.jpeg' },
   // Bottom row - 3 vehicles
   { id: 5, name: '30 Seater | Bus', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-28%20at%202.23.02%20PM%20%282%29-3vhdxIU1qyEaRZukUeWC3FycdAEp6T.jpeg' },
-  { id: 6, name: '27 Seater | Bus', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-28%20at%202.23.03%20PM-a8UZfyFIqh6M6wAQtqD9RGCAIZlRJZ.jpeg' },
-  { id: 7, name: '12 Seater | Force', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-28%20at%202.23.02%20PM%20%281%29-YN8bvuHryHBNbZuXNVExYiNaisUjp7.jpeg' },
+  { id: 6, name: '27 Seater | Bus', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-28%20at%202.23.02%20PM%20%281%29-YN8bvuHryHBNbZuXNVExYiNaisUjp7.jpeg' },
+  { id: 7, name: '12 Seater | Force', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-28%20at%202.23.03%20PM-a8UZfyFIqh6M6wAQtqD9RGCAIZlRJZ.jpeg' },
 ];
 
 export default function VehicleShowcase() {
