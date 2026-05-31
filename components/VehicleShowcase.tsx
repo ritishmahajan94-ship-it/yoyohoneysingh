@@ -33,11 +33,11 @@ export default function VehicleShowcase() {
               className="bg-white border-2 border-[#1A1A1A] rounded-lg overflow-hidden flex flex-col w-full"
             >
               {/* Image Placeholder */}
-              <div className="w-full aspect-video bg-gray-300 flex items-center justify-center overflow-hidden">
+              <div className="w-full h-48 md:h-56 lg:h-64 bg-gray-200 flex items-center justify-center overflow-hidden">
                 <img 
                   src={vehicle.image} 
                   alt={vehicle.name}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-contain"
                 />
               </div>
 
@@ -60,11 +60,11 @@ export default function VehicleShowcase() {
               className="bg-white border-2 border-[#1A1A1A] rounded-lg overflow-hidden flex flex-col w-full"
             >
               {/* Image Placeholder */}
-              <div className="w-full aspect-video bg-gray-300 flex items-center justify-center overflow-hidden">
+              <div className="w-full h-48 md:h-56 lg:h-64 bg-gray-200 flex items-center justify-center overflow-hidden">
                 <img 
                   src={vehicle.image} 
                   alt={vehicle.name}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-contain"
                 />
               </div>
 
